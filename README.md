@@ -1,9 +1,8 @@
 <h1 align="center">Привет, я Ayaznal (B-boss) 👋</h1>
 
 <p align="center">
-  <a href="https://ayaznal.cc"><img src="https://img.shields.io/badge/Сайт-ayaznal.cc-FF00FF?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="https://x.com/fee_boss"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-  <a href="https://t.me/твой_ник"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="https://ayaznal.cc"><img src="https://img.shields.io/badge/Сайт-ayaznal.cc-FF00FF?style=for-the-badge&logo=vercel&logoColor=white"/></a> 
+  <a href="https://t.me/ayaznal"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </p>
 
 <p align="center">
